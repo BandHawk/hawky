@@ -1,0 +1,6 @@
+{
+  "name": "PocketMind",
+  "description": "Offline-first private AI assistant powered by on-device Gemini Nano and LiteRT-LM local models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

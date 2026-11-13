@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PocketMind</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_studio">Tools</string>
+    <string name="nav_models">Models</string>
+    <string name="nav_guide">Guide</string>
+    <string name="new_chat">New chat</string>
+    <string name="offline_ready">100% On-Device</string>
+    <string name="send_prompt">Send</string>
+    <string name="stop_generation">Stop</string>
+    <string name="prompt_hint">Ask anything privately offline…</string>
+    <string name="import_model">Import .litertlm</string>
+    <string name="download_model">Download</string>
+    <string name="delete_model">Delete</string>
+    <string name="load_model">Load Engine</string>
+</resources>
